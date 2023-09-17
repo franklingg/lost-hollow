@@ -1,0 +1,11 @@
+@import "../../../styles.scss";
+
+.book {
+  display: flex;
+  justify-content: center;
+  margin: 20px 0;
+  embed {
+    width: 80vw;
+    height: 90vh;
+  }
+}

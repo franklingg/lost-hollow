@@ -1,0 +1,24 @@
+@import "../../../styles.scss";
+.header {
+  height: 10vh;
+  display: flex;
+  align-items: stretch;
+  justify-content: space-between;
+  padding: 0 260px;
+
+  a {
+    font-size: 1.8rem;
+    color: $black;
+    display: flex;
+    align-items: center;
+  }
+
+  .header__home {
+    .logo {
+      height: 100%;
+      width: 10vh;
+      background-image: $logo;
+      background-size: contain;
+    }
+  }
+}
