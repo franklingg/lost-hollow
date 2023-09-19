@@ -1,1 +1,30 @@
-<main class="home"></main>
+<main class="cards">
+  <div class="cards__search">
+    <input
+      type="text"
+      [ngModel]="searchControl.value"
+      (ngModelChange)="onSearch($event)"
+      placeholder="Pesquisar..."
+    />
+    <span class="search"></span>
+  </div>
+  <section class="cards__major">
+    <h1>Arcanos Maiores</h1>
+    <div class="cards__list">
+      <a *ngFor="let card of getCards('major')">
+        <img [src]="'../../../assets/images/' + card.numbering + '.png'" />
+      </a>
+    </div>
+  </section>
+  <section class="cards__minor">
+    <h1>Arcanos Menores</h1>
+    <div class="cards__list">
+      <a *ngFor="let card of getCards('court')">
+        <img [src]="'../../../assets/images/' + card.numbering + '.png'" />
+      </a>
+      <a *ngFor="let card of getCards('pip')">
+        <img [src]="'../../../assets/images/' + card.numbering + '.png'" />
+      </a>
+    </div>
+  </section>
+</main>
