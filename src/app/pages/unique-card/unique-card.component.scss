@@ -66,3 +66,39 @@
     }
   }
 }
+
+@media (max-width: 900px) {
+  .unique {
+    flex-direction: column;
+    align-items: stretch;
+    padding: 0;
+
+    .unique__card {
+      justify-content: center;
+
+      a {
+        width: 3rem;
+        height: 3rem;
+      }
+
+      img {
+        width: 45vw;
+      }
+    }
+
+    .unique__description {
+      padding: 0 7rem 0 5rem;
+    }
+  }
+}
+
+@media (max-width: 500px) {
+  .unique {
+    padding-right: 30px;
+  }
+
+  .unique__description {
+    text-align: center;
+    padding: 0 2rem 3rem 2rem !important;
+  }
+}
