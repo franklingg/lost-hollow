@@ -9,3 +9,10 @@
     height: 90vh;
   }
 }
+
+@media (max-width: 900px) {
+  .book {
+    margin: 0;
+    padding: 20px 30px 0 0;
+  }
+}
