@@ -1,7 +1,7 @@
 @import "../../../styles.scss";
 
 .home {
-  margin: 40px 310px;
+  margin: 40px 290px;
   display: flex;
   flex-direction: column;
   gap: 40px;
@@ -17,10 +17,16 @@
 @media (max-width: 900px) {
   .home {
     margin: 0;
-    padding: 30px 50px 0 20px;
+    padding: 30px 50px;
 
     p {
       line-height: 2.5rem;
     }
+  }
+}
+
+@media (max-width: 500px) {
+  .home {
+    padding: 30px;
   }
 }
