@@ -9,8 +9,17 @@ import { CardsComponent } from './pages/cards/cards.component';
 import { HomeComponent } from './pages/home/home.component';
 import { BookComponent } from './pages/book/book.component';
 import { FormsModule } from '@angular/forms';
+import { UniqueCardComponent } from './pages/unique-card/unique-card.component';
+import { ReadingComponent } from './pages/reading/reading.component';
 @NgModule({
-  declarations: [AppComponent, CardsComponent, HomeComponent, BookComponent],
+  declarations: [
+    AppComponent,
+    CardsComponent,
+    HomeComponent,
+    BookComponent,
+    UniqueCardComponent,
+    ReadingComponent,
+  ],
   imports: [
     BrowserModule,
     AppRoutingModule,

@@ -1,0 +1,40 @@
+<main class="unique">
+  <div class="unique__card">
+    <a
+      class="left"
+      (click)="navigatePrev()"
+      [ngClass]="{ disabled: card.numbering == 0 }"
+    ></a>
+    <img [src]="'../../../assets/images/' + card.numbering + '.png'" />
+    <a
+      class="right"
+      (click)="navigateNext()"
+      [ngClass]="{ disabled: card.numbering == 80 }"
+    ></a>
+  </div>
+  <div class="unique__description">
+    <h2 class="unique__title">
+      {{
+        card.numbering +
+          " - " +
+          card.alias +
+          " (" +
+          card.name +
+          ") - " +
+          card.title +
+          (card.regent ? " - " + card.regent : "")
+      }}
+    </h2>
+    <div class="unique__themes">
+      <p>
+        <strong>Significado Positivo: </strong>
+        <span>{{ card.well }}</span>
+      </p>
+      <p>
+        <strong>Significado Negativo: </strong>
+        <span>{{ card.ill }}</span>
+      </p>
+    </div>
+    <p class="unique__cardDescription" [innerHTML]="card.description"></p>
+  </div>
+</main>

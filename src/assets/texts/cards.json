@@ -5,10 +5,10 @@
         "name": "Fool",
         "alias": "O Louco",
         "title": "Espírito de Aether",
-        "regent?": "Air",
+        "regent": "Ar",
         "well": "Criação, Potencial, Inocência, Inícios, Crescimento, Espontaneidade.",
         "ill": "Irresponsabilidade, Potencial desperdiçado, Distração, Medo, Falta de cuidado.",
-        "description": "O Louco leva o zero como seu número, não como falta de valor mas como a falta de algum valor compreensível. É o universo antes do Big Bang, a vida antes da concepção, um quadro vazio. Representa o potencial infinito dentro de nós e o início da Jornada do Louco pela Arcana Maior. Neste baralho, o Louco aparece em todas as cartas dos Arcanos Maiores. As árvores no fundo representam os desafios que o Louco deve navegar enquanto se move à frente. Abaixo estão flores brancas representando a pureza. O Louco olha para a borboleta a sua frente, o que representa tanto o ar quanto a transformação que acontecerá durante seu caminho. Esta é a carta de novos começos, oportunidades e aventuras. Ela encoraja uma mentalidade aberta e curiosa e a motivação constante em direção ao seu futuro caminho. Confie em si mesmo e comece sua jornada!"
+        "description": "O Louco leva o zero como seu número, não como falta de valor mas como a falta de algum valor compreensível. É o universo antes do Big Bang, a vida antes da concepção, um quadro vazio. Representa o potencial infinito dentro de nós e o início da Jornada do Louco pela Arcana Maior. <br/><br/>Neste baralho, o Louco aparece em todas as cartas dos Arcanos Maiores. As árvores no fundo representam os desafios que o Louco deve navegar enquanto se move à frente. Abaixo estão flores brancas representando a pureza. O Louco olha para a borboleta a sua frente, o que representa tanto o ar quanto a transformação que acontecerá durante seu caminho. <br/><br/>Esta é a carta de novos começos, oportunidades e aventuras. Ela encoraja uma mentalidade aberta e curiosa e a motivação constante em direção ao seu futuro caminho. Confie em si mesmo e comece sua jornada!"
     },
     {
         "class": "major",
@@ -16,7 +16,7 @@
         "name": "Magician",
         "alias": "O Mago",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -27,7 +27,7 @@
         "name": "Priestess",
         "alias": "A Sacerdotisa",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -38,7 +38,7 @@
         "name": "Empress",
         "alias": "A Imperatiz",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -49,7 +49,7 @@
         "name": "Emperor",
         "alias": "O Imperador",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -60,7 +60,7 @@
         "name": "Hierophant",
         "alias": "O Hierofante",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -71,7 +71,7 @@
         "name": "Lovers",
         "alias": "Os Enamorados",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -82,7 +82,7 @@
         "name": "Chariot",
         "alias": "O Carro",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -93,7 +93,7 @@
         "name": "Adjustment",
         "alias": "A Justiça",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -104,7 +104,7 @@
         "name": "Strenght",
         "alias": "A Força",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -115,7 +115,7 @@
         "name": "Hermit",
         "alias": "O Eremita",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -126,7 +126,7 @@
         "name": "Fortune",
         "alias": "A Roda da Fortuna",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -137,7 +137,7 @@
         "name": "Strenght",
         "alias": "A Força",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -148,7 +148,7 @@
         "name": "Justice",
         "alias": "A Justiça",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -159,7 +159,7 @@
         "name": "Hanged One",
         "alias": "O Enforcado",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -170,7 +170,7 @@
         "name": "Death",
         "alias": "Morte",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -181,7 +181,7 @@
         "name": "Temperance",
         "alias": "A Temperança",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -192,7 +192,7 @@
         "name": "Devil",
         "alias": "O Diabo",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -203,7 +203,7 @@
         "name": "Tower",
         "alias": "A Torre",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -214,7 +214,7 @@
         "name": "Star",
         "alias": "A Estrela",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -225,7 +225,7 @@
         "name": "Moon",
         "alias": "A Lua",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -236,7 +236,7 @@
         "name": "Sun",
         "alias": "O Sol",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -247,7 +247,7 @@
         "name": "Judgment",
         "alias": "O Julgamento",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""
@@ -258,7 +258,7 @@
         "name": "Universe",
         "alias": "O Mundo",
         "title": "",
-        "regent?": "",
+        "regent": "",
         "well": "",
         "ill": "",
         "description": ""

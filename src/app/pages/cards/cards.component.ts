@@ -1,4 +1,4 @@
-import { ChangeDetectorRef, Component } from '@angular/core';
+import { Component } from '@angular/core';
 import { Router } from '@angular/router';
 import allCards from '../../../assets/texts/cards.json';
 import Card from 'src/models/card';
@@ -12,7 +12,7 @@ export class CardsComponent {
   public shownCards: Card[] = allCards;
 
   public searchControl: FormControl<string> = new FormControl();
-  constructor(private router: Router, private ref: ChangeDetectorRef) {}
+  constructor(private router: Router) {}
 
   getCards(cls: string): Card[] {
     return this.shownCards.filter((c) => c.class == cls);

@@ -1,0 +1,68 @@
+@import "../../../styles.scss";
+
+.unique {
+  padding: 30px 0 50px 100px;
+  display: flex;
+  align-items: flex-start;
+
+  .unique__card {
+    display: flex;
+    align-items: center;
+
+    a {
+      width: 2rem;
+      height: 2rem;
+
+      background-position: center;
+      background-size: 85% 85%;
+      background-repeat: no-repeat;
+      border-radius: 50%;
+      border: 2px solid $blacker;
+
+      &.disabled {
+        opacity: 0.5;
+        cursor: default;
+      }
+
+      &.left {
+        background-image: url("../../../assets/icons/prev.png");
+      }
+
+      &.right {
+        background-size: 90% 75%;
+        background-image: url("../../../assets/icons/next.png");
+      }
+    }
+
+    img {
+      width: 25vw;
+    }
+  }
+
+  .unique__description {
+    margin-top: 3rem;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    padding: 0 10rem;
+    color: $black;
+    text-transform: uppercase;
+
+    .unique__title {
+      font-size: 1.7rem;
+    }
+
+    .unique__themes {
+      display: flex;
+      flex-direction: column;
+      gap: 1rem;
+      font-size: 1.4rem;
+    }
+
+    .unique__cardDescription {
+      font-size: 1.4rem;
+      line-height: 1.6rem;
+    }
+  }
+}

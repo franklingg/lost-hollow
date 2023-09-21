@@ -11,7 +11,10 @@
   <section class="cards__major">
     <h1>Arcanos Maiores</h1>
     <div class="cards__list">
-      <a *ngFor="let card of getCards('major')">
+      <a
+        *ngFor="let card of getCards('major')"
+        [routerLink]="['/carta/' + card.numbering]"
+      >
         <img [src]="'../../../assets/images/' + card.numbering + '.png'" />
       </a>
     </div>
@@ -19,10 +22,16 @@
   <section class="cards__minor">
     <h1>Arcanos Menores</h1>
     <div class="cards__list">
-      <a *ngFor="let card of getCards('court')">
+      <a
+        *ngFor="let card of getCards('court')"
+        [routerLink]="['/carta/' + card.numbering]"
+      >
         <img [src]="'../../../assets/images/' + card.numbering + '.png'" />
       </a>
-      <a *ngFor="let card of getCards('pip')">
+      <a
+        *ngFor="let card of getCards('pip')"
+        [routerLink]="['/carta/' + card.numbering]"
+      >
         <img [src]="'../../../assets/images/' + card.numbering + '.png'" />
       </a>
     </div>
