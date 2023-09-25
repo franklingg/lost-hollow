@@ -136,10 +136,10 @@
         "numbering": 11,
         "name": "Strenght",
         "alias": "A Força",
-        "title": "",
-        "regent": "",
-        "well": "",
-        "ill": "",
+        "title": "Filha da Espada Flamejante",
+        "regent": "Leão",
+        "well": "Compaixão, Paixão, Influência, Coragem, Auto-aceitação, Resiliência.",
+        "ill": "Dúvida interna, Baixa energia, Falta de paixão, Ações irresponsáveis",
         "description": ""
     },
     {
@@ -147,88 +147,88 @@
         "numbering": 80,
         "name": "Justice",
         "alias": "A Justiça",
-        "title": "",
-        "regent": "",
-        "well": "",
-        "ill": "",
-        "description": ""
+        "title": "Filha dos Senhores da Verdade",
+        "regent": "Libra",
+        "well": "Equidade, Verdade, Causa e Efeito, Integridade, Consequência, Ordem e Lei.",
+        "ill": "Injustiça, Desonestidade, Retribuição, Corrupção.",
+        "description": "A Justiça (na tradição RWS) representa a lei e a ordem, causa e efeito, ação e consequência. Seu retrato é similar ao da Imperatriz e do Hierofante/Papa, posicionada entre duas árvores que representam a lei e a estrutura. Sua balança flutua sobre sua mão intuitivamente, e é o símbolo da sua imparcialidade. Sua espada é de dois gumes, representando a ação e a consequência, e aponta para cima, mostrando a lógica e claridade das suas decisões. Ela tem os olhos cobertos, mostrando novamente a imparcialidade dos seus julgamentos.<br/><br/> A Justiça nos alerta sobre as consequências das ações injustas e das decisões tendo efeitos de longo prazo que ecoam no tempo. Ela nos diz para tomarmos responsabilidade sobre nossas ações, e para confiarmos em nós mesmos. Aja em conformidade com seu eu interior e pelo bem dos outros."
     },
     {
         "class": "major",
         "numbering": 12,
         "name": "Hanged One",
         "alias": "O Enforcado",
-        "title": "",
-        "regent": "",
-        "well": "",
-        "ill": "",
-        "description": ""
+        "title": "Espírito das Águas Poderosas ",
+        "regent": "Água",
+        "well": "Redenção, Superar a culpa, Sacrifício, Generosidade, Novas perspectivas, Entrega total.",
+        "ill": "Auto-punição, Culpa, Sacrifícios inúteis, Parado no tempo, Indecisão, Atrasos.",
+        "description": "O Enforcado é uma carta de sacrifício, entrega, novas perspectivas e meditação. Dezoito cordas estão amarradas na cabeça do Enforcado, simbolizando o número da vida e, com a auréola no fundo, representando a luz espiritual que o Enforcado traz da escuridão. A auréola tem quatro anéis, relacionando-se ao número da estrutura e manifestação , além dos quatro elementos. O ankh com a serpente ao redor do seu corpo estão ligados à vida e à morte, e à pureza do espírito. Novamente representando a luz está o triângulo com a cruz na sua perna. <br/><br/>A perna direita do Enforcado está cruzada, implicando no mergulho inconsciente nas situações da vida, ao invés de agir racionalmente. Esta carta representa a busca pelo autoconhecimento através do sacrifício, da redenção e do conserto do espírito e das emoções. É hora de tomar um tempo pra si e se realinhar consigo mesmo. É um bom momento para deixar alguns projetos de lado e tentar ver as coisas com uma nova perspectiva. Reflita, entregue-se e não resista a mudar sua visão das coisas."
     },
     {
         "class": "major",
         "numbering": 13,
         "name": "Death",
         "alias": "Morte",
-        "title": "",
-        "regent": "",
-        "well": "",
-        "ill": "",
-        "description": ""
+        "title": "Senhor das Portas da Morte",
+        "regent": "Escorpião",
+        "well": "Transformação, Mudança, Deixar o negativo de lado, Crise, Crescimento pessoal difícil.",
+        "ill": "Dificuldade de mudança, Estagnação, Problemas não resolvidos.",
+        "description": "Na carta da Morte, o corvo substitui a imagem do ceifador tradicional (e sua foice). Nessa carta, o corvo é associado ao presságio da perda e da morte. Assim como o Ceifador, o corvo representa a conexão do mundo com o pós-vida. No fundo temos crânios de pessoas comuns, além do crânio mais próximo de nós que perdeu sua coroa (alguém da realeza). Juntos, isso demonstra que a morte não poupa ninguém, independente da sua situação, status ou dinheiro. Do crânio mais próximo se vê uma rosa branca, associada à pureza, beleza, mudança e transformação da morte à vida, do início ao fim.<br/><br/>À distância duas florestas denotam o caminho para o pôr do sol no horizonte, refletindo a morte e o renascimento. Associada a Escorpião, esta carta, apesar de sombria, fala sobre transformação, renascimento, começos e fins. Você precisa deixar ir para que possa continuar. Deixe o passado ao qual você se agarra vá embora, assim você pode se mover ao futuro. Este pode ser um momento doloroso para se tornar alguém diferente, mas é necessário e você não deve ter medo. A mudança está vindo e não pode ser impedida."
     },
     {
         "class": "major",
         "numbering": 14,
         "name": "Temperance",
         "alias": "A Temperança",
-        "title": "",
-        "regent": "",
-        "well": "",
-        "ill": "",
-        "description": ""
+        "title": "Filha dos Reconciliadores",
+        "regent": "Sagitário",
+        "well": "Equilíbrio, Moderação, Tranquilidade, Propósito, Calma, Coordenação, Paciência.",
+        "ill": "Desequilíbrio, Conflito, Excessos, Estresse, Tensão, Impaciência, Competição, Pressa.",
+        "description": "Temperança fala sobre reintegração de opostos, equilíbrio, calma, tranquilidade e paciência. O anjo não-binário regura dois copos que despejam água ardente sobre sua cabeça. Os copos possuem ícones de uma água e um leão, associados a Leão e Aquário. No seu peito está um triângulo dentro de um quadrado, simbolizando a humanidade. Um dos seus pés está na água e o outro no chão, mostrando o equilíbrio de se manter no solo e fazer parte do fluxo de eventos da vida.<br/><br/>A água flui pelo cenário, simbolizando a jornada da vida. Na lapela do casaco estão os símbolos de sagitário e da não-binariedade. Também se vê um corvo em cima de um crânio, representando a pureza. Esta carta completa o processo de reintegração iniciado na carta dos Enamorados. Onde os Enamorados começam a divisão, aqui o espírito é unificado e completo. Esta carta nos pede paciência, moderação e calma para superar momentos caóticos."
     },
     {
         "class": "major",
         "numbering": 15,
         "name": "Devil",
         "alias": "O Diabo",
-        "title": "",
-        "regent": "",
-        "well": "",
-        "ill": "",
-        "description": ""
+        "title": "Senhor das Portões da Matéria",
+        "regent": "Capricórnio",
+        "well": "Restrição, Ligação, Foco no Material, Sexualidade.",
+        "ill": "Compulsão, Vícios, Sentimento de estar preso, Deconexão, Agressão, Desonestidade.",
+        "description": "O Diabo remete ao mostrado na carta dos Enamorados, mas aqui mostra todas as facetas das pessoas, sem receios. As cordas seguradas pelo Diabo mostram que ele manipula seus fantoches. As cordas formam um pentagrama invertido sobre a sua cabeça. O Diabo em si é uma figura sobre sombras com a cabeça e chifres de cabra, um terceiro olho vermelho e uma auréola vermelha. Atrás de si estão as chamas que consomem os viciados e escravos.<br/><br/>Associado a capricórnio, prazer físico, foco material e vícios, o Diabo fala sobre as coisas que se mantêm restritas e espiritualmente bloqueadas. As coisas materiais que tiram o melhor de nós, assim como as coisas viciantes. É uma carta do orgulho e materialidade, ou algo simpels como a luxúria. Pode ser que estejamos nos entregando a prazeres e dependências que nos tira do nosso propósito. Nossa alma enlouquece e nos afogamos nela. É necessário admitir e nos conscientizar sobre os comportamentos perigosos para se livrar das más influências."
     },
     {
         "class": "major",
         "numbering": 16,
         "name": "Tower",
         "alias": "A Torre",
-        "title": "",
-        "regent": "",
-        "well": "",
-        "ill": "",
-        "description": ""
+        "title": "Senhor dos Anfitriões dos Poderosos",
+        "regent": "Marte",
+        "well": "Destruição da Estabilidade, Realinhamento, Tempo de crise e tumulto, Emoções fortes, Mudança súbita de destino, Destruição das Instituições, Expectativas Derrubadas.",
+        "ill": "Brigas e conflito, Medo da mudança, Situações e ambientes tóxicos, Prolongar situações difíceis, Ciclos repetidos, não aprender com as situações.",
+        "description": "A destruição define o cenário para a carta da Torre. Um raio representando uma explosão repentina de energia ou insight atinge uma torre que simboliza instituições, suposições, organizações e/ou ideias. A Torre que foi construída sobre estas premissas falsas ou fundações instáveis desmorona e desmorona em chamas. Existem vinte e duas pontas de chamas representando as dez pontas da Árvore da Vida e os doze signos do zodíaco. Associada a Marte, a própria Torre também pode representar a destruição num evento de morte do ego. <br/><br/>Voando para longe da torre está uma pomba e caindo da torre estão duas figuras, uma das quais tem a cobra Abraxas enrolada em torno delas. A pomba e a serpente são figuras de amor ativo e passivo. As duas figuras são figuras que tentam desesperadamente escapar da situação, sem saber que destino os aguarda, rodeados pela divindade das chamas. O topo da Torre tem o Olho de Shiva e uma coroa, representando a destruição da ilusão da criação material e da energia que flui do universo através do chacra coronário.<br/><br/>Existem quatro janelas laterais na Torre, marcadas com cada um dos quatro elementos que constituem o nosso corpo físico, mental e emocional. A janela inferior tem dez painéis, representando a 10ª sephiroth Malkuth. A Torre é uma carta de mudanças forçadas e abruptas, muitas vezes em sistemas ou instituições ou em crenças profundamente arraigadas. A mudança está implícita como necessária e irrevogável. Posteriormente, um sistema novo e melhor precisará substituir aquele que se desintegrou."
     },
     {
         "class": "major",
         "numbering": 17,
         "name": "Star",
         "alias": "A Estrela",
-        "title": "",
-        "regent": "",
-        "well": "",
-        "ill": "",
-        "description": ""
+        "title": "Filha do Firmamento",
+        "regent": "Aquário",
+        "well": "Inspiração, realização, alegria, amor, encorajamento, esperança, propósito ",
+        "ill": "Perda de esperança, ceticismo, desconexão, tristeza, falta de realização",
+        "description": "A Estrela está associada a Aquário e trata de esperança, alegria, propósito e renovação. A mulher derrama seus copos para fornecer alimento para a terra. A água no chão se espalha em cinco riachos, representando os sentidos. Um pé está no chão representando sua praticidade, o outro na água para representar sua intuição. Sua nudez é ao mesmo tempo vulnerabilidade e pureza. A maior estrela ao fundo é sua essência central, as outras são os sete chakras. Suas duas xícaras são marcadas como tendo a energia do sol e da lua, pela energia dos deuses e pelo potencial ilimitado canalizado através dela como amor. O globo ao fundo é o universo que contém a Terra. <br/><br/>Suas duas xícaras são marcadas como tendo a energia do sol e da lua, pela energia dos deuses e pelo potencial ilimitado canalizado através dela como amor. O globo ao fundo é o universo que contém a Terra. As cinco borboletas são as almas livres da mente e da matéria, sendo o número cinco o espírito. As Três rosas são a fertilidade da terra trazida à vida pelo alimento da figura. Esta é uma carta para superar os tempos difíceis e rumo a um futuro melhor com um eu fortalecido. Com o novo eu vem a inspiração e a realização à medida que avançamos em direção aos nossos sonhos e objetivos. Depois da escuridão e da dificuldade das cartas anteriores, esta traz esperança e renovação."
     },
     {
         "class": "major",
         "numbering": 18,
         "name": "Moon",
         "alias": "A Lua",
-        "title": "",
-        "regent": "",
-        "well": "",
-        "ill": "",
-        "description": ""
+        "title": "Regente do Fluxo e Refluxo",
+        "regent": "Peixes",
+        "well": " Ilusão, engano, medo, ansiedade, eu oculto, subconsciente, memórias ou sentimentos reprimidos",
+        "ill": "Depressão, estados mentais prejudiciais, confusão, falta de direção, repressão, falta de sentido ",
+        "description": "A Lua representa as qualidades difíceis da Lua. Ilusão e engano, a noite escura da alma, e vagar sem direção no desconhecido. Associada a Peixes, é uma carta do subconsciente, da intuição, da arte e emoções. Das profundezas da água Khepra empurra o disco solar do submundo em direção ao céu para trazer a luz de volta ao mundo, e aqui representa a nossa luta da mente consciente navegando no subconsciente para enfrentar o que nos impede. Anúbis retorna nesta carta à direita como um guia para as almas no escuro que viajam entre os mundos consciente e subconsciente. Em seu capuz está o símbolo de Netuno que rege Peixes. <br/><br>À esquerda está o deus Set, com o símbolo de Mercúrio, que está em detrimento em Peixes. Mercúrio é a mente lógica em desacordo com o subconsciente desta carta. Set é um deus trapaceiro da guerra e do caos e muitas vezes faz uso de engano e ilusão. Ao redor da lua central há mais oito fases da lua, totalizando nove luas para fazer referência à nona sephiroth regida pela carta da Lua. A carta da lua trata de superar o medo e confiar na sua intuição para navegar no desconhecido. Através da jornada ao subconsciente, podemos conquistar aquilo que nos impede e nos transformar em uma versão superior de nós mesmos. Esta carta pode sugerir engano, um caminho perdido, sua sombra e outras qualidades ocultas ou enterradas."
     },
     {
         "class": "major",
@@ -246,21 +246,21 @@
         "numbering": 20,
         "name": "Judgment",
         "alias": "O Julgamento",
-        "title": "",
-        "regent": "",
-        "well": "",
-        "ill": "",
-        "description": ""
+        "title": "Senhor do Fogo do Mundo",
+        "regent": "Sol ",
+        "well": "Abundância, alegria, sucesso, confiança, iluminação, positividade, simplicidade, nova perspectiva, visão clara",
+        "ill": "Falta de entusiasmo, pessimismo, situação difícil, falta de alegria, falta de perspectiva ",
+        "description": "O Sol é uma carta otimista de sucesso e positividade. Uma criança que representa a alegria, a conexão com o eu interior e a liberdade da alma, abraça um cavalo branco que está ligado à pureza e à força. Os girassóis ao fundo representam os quatro naipes dos Arcanos Menores e os quatro elementos e acima deles um sol gigante ilumina a carta. Os doze signos do zodíaco alinham o Sol junto com doze raios se estendendo, mostrando a luz do Sol levada a todos no universo. O corvo no centro lembra o corvo de algumas mitologias que traz o sol ao mundo, tirando-o de uma caixa cobiçada pela gaivota em uma versão, ou roubando o sol e pendurando-o no céu junto com a lua e as estrelas em outra versão. A carta do Sol é de alegria, vida e iluminação que energiza nossa vida. Representa abraçar o seu caminho e a si mesmo e ter a clareza para compartilhar o que você tem de melhor com os outros."
     },
     {
         "class": "major",
         "numbering": 21,
         "name": "Universe",
         "alias": "O Mundo",
-        "title": "",
-        "regent": "",
-        "well": "",
-        "ill": "",
-        "description": ""
+        "title": "Espírito do Fogo Primordial ",
+        "regent": "Fogo",
+        "well": " Experiência de mudança de vida, uma decisão importante, absolvição, expansão espiritual",
+        "ill": "Dúvida, crítica interna, escolhas negativas, crescimento bloqueado",
+        "description": "O julgamento está associado ao elemento fogo e à purificação. Aquilo que não é mais útil para nós é eliminado e o novo eu permanece. É a realização de grandes mudanças. Uma aplicação universal da realização do eu que estava presente na carta do Sol. A carta retrata um anjo bíblico trazendo o fim dos tempos. Os mortos levantam-se das suas sepulturas para saudar o anjo e o corvo voltou agora ao seu rebanho. O fundo tem montanhas extensas que simbolizam a impossibilidade de evitar o julgamento. A carta é uma das principais decisões que alteram nossas vidas, respondendo ao nosso chamado interior, às experiências de mudança de vida, superando situações passadas e abraçando o seu melhor eu como uma parte positiva do mundo maior ao seu redor."
     }
 ]
