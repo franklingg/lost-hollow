@@ -235,17 +235,6 @@
         "numbering": 19,
         "name": "Sun",
         "alias": "O Sol",
-        "title": "",
-        "regent": "",
-        "well": "",
-        "ill": "",
-        "description": ""
-    },
-    {
-        "class": "major",
-        "numbering": 20,
-        "name": "Judgment",
-        "alias": "O Julgamento",
         "title": "Senhor do Fogo do Mundo",
         "regent": "Sol ",
         "well": "Abundância, alegria, sucesso, confiança, iluminação, positividade, simplicidade, nova perspectiva, visão clara",
@@ -254,13 +243,24 @@
     },
     {
         "class": "major",
-        "numbering": 21,
-        "name": "Universe",
-        "alias": "O Mundo",
+        "numbering": 20,
+        "name": "Judgment",
+        "alias": "O Julgamento",
         "title": "Espírito do Fogo Primordial ",
         "regent": "Fogo",
         "well": " Experiência de mudança de vida, uma decisão importante, absolvição, expansão espiritual",
         "ill": "Dúvida, crítica interna, escolhas negativas, crescimento bloqueado",
         "description": "O julgamento está associado ao elemento fogo e à purificação. Aquilo que não é mais útil para nós é eliminado e o novo eu permanece. É a realização de grandes mudanças. Uma aplicação universal da realização do eu que estava presente na carta do Sol. A carta retrata um anjo bíblico trazendo o fim dos tempos. Os mortos levantam-se das suas sepulturas para saudar o anjo e o corvo voltou agora ao seu rebanho. O fundo tem montanhas extensas que simbolizam a impossibilidade de evitar o julgamento. A carta é uma das principais decisões que alteram nossas vidas, respondendo ao nosso chamado interior, às experiências de mudança de vida, superando situações passadas e abraçando o seu melhor eu como uma parte positiva do mundo maior ao seu redor."
+    },
+    {
+        "class": "major",
+        "numbering": 21,
+        "name": "Universe",
+        "alias": "O Mundo",
+        "title": "O Grande da Noite dos Tempos",
+        "regent": "Saturno/Terra",
+        "well": "Conclusão, integração, controle do próprio destino, iluminação, realização ",
+        "ill": " Procrastinação, atalhos, ser escravizado pelo material, recusar-se a aceitar o fim de algo, falta de encerramento, não conseguir terminar um projeto, estagnação espiritual",
+        "description": "A carta do Universo é a conclusão da Jornada do Louco e a realização de um marco importante em nossa vida. Associado a Saturno e ao elemento terra, o Universo pede celebração da sua conquista, contemplação da sua jornada e cumprimento do seu objetivo. Os quatro signos fixos do zodíaco representam o domínio dos quatro elementos, os quatro naipes, as quatro estações, os quatro pontos cardeais e os quatro cantos do universo. Eles guiam a figura da carta em sua jornada, trazendo equilíbrio e equilíbrio ao final de cada ciclo. <br/><br/>A coroa de louros que envolve a figura é circular, simbolizando sua vitória cíclica e conquistas a cada iteração da Jornada do Louco. À medida que completam uma jornada, a próxima começa e a iteração continua. A lemniscata acima deles é um potencial infinito realizado. O bando de corvos tornou-se também uma representação do infinito e agora está salpicado de estrelas como pequenos recortes em forma de corvo que nos permitem olhar para o universo, como se, no final da sua viagem pessoal, tivesse reunido as mitologias e constelações do universo. Esta carta sugere uma sensação de conclusão e totalidade, realização e celebração. Embora os ciclos nunca terminem, este é o fim de um ciclo e merece um momento de apreço e gratidão. "
     }
 ]
