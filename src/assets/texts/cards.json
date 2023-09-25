@@ -100,7 +100,7 @@
     },
     {
         "class": "major",
-        "numbering": 79,
+        "numbering": 78,
         "name": "Strenght",
         "alias": "A Força",
         "title": "Filha da Espada Flamejante",
@@ -144,7 +144,7 @@
     },
     {
         "class": "major",
-        "numbering": 80,
+        "numbering": 79,
         "name": "Justice",
         "alias": "A Justiça",
         "title": "Filha dos Senhores da Verdade",
@@ -262,5 +262,565 @@
         "well": "Conclusão, integração, controle do próprio destino, iluminação, realização ",
         "ill": " Procrastinação, atalhos, ser escravizado pelo material, recusar-se a aceitar o fim de algo, falta de encerramento, não conseguir terminar um projeto, estagnação espiritual",
         "description": "A carta do Universo é a conclusão da Jornada do Louco e a realização de um marco importante em nossa vida. Associado a Saturno e ao elemento terra, o Universo pede celebração da sua conquista, contemplação da sua jornada e cumprimento do seu objetivo. Os quatro signos fixos do zodíaco representam o domínio dos quatro elementos, os quatro naipes, as quatro estações, os quatro pontos cardeais e os quatro cantos do universo. Eles guiam a figura da carta em sua jornada, trazendo equilíbrio e equilíbrio ao final de cada ciclo. <br/><br/>A coroa de louros que envolve a figura é circular, simbolizando sua vitória cíclica e conquistas a cada iteração da Jornada do Louco. À medida que completam uma jornada, a próxima começa e a iteração continua. A lemniscata acima deles é um potencial infinito realizado. O bando de corvos tornou-se também uma representação do infinito e agora está salpicado de estrelas como pequenos recortes em forma de corvo que nos permitem olhar para o universo, como se, no final da sua viagem pessoal, tivesse reunido as mitologias e constelações do universo. Esta carta sugere uma sensação de conclusão e totalidade, realização e celebração. Embora os ciclos nunca terminem, este é o fim de um ciclo e merece um momento de apreço e gratidão. "
+    },
+    {
+        "class": "court",
+        "numbering": 22,
+        "name": "King of Wands",
+        "alias": "Rei de Paus",
+        "title": "Senhor da Chama e do Relâmpago",
+        "well": " Honrado, liderança, empreendedor, virtuoso",
+        "ill": " Impulsivo, implacável, cruel, brutal",
+        "description": "O Rei de Paus é pura energia ígnea. Ele é capaz de usar seu carisma e liderança visionária para orientar outros a executarem sua visão criativa, em vez de apenas manifestá-la ele mesmo. Ele é determinado, direto e focado. Sua personalidade impetuosa pode ser agressiva, arrogante ou, se levada a extremos, até mesmo violenta e cruel. Na melhor das hipóteses, porém, o Rei de Paus é capaz de envolver outros com o mesmo entusiasmo por suas criações como ele mesmo se sente. Sua varinha tem um leão no topo e seu prendedor de gravata é uma salamandra, ambas criaturas de fogo. A salamandra forma um círculo infinito, mostrando a capacidade do Rei de sustentar o impulso criativo por muito tempo. Talvez precisemos abraçar essas qualidades em nós mesmos ou alguém com essas qualidades pode estar entrando em nossa vida ou trabalho."
+    },
+    {
+        "class": "court",
+        "numbering": 23,
+        "name": "Queen of Wands",
+        "alias": "Rainha de Paus",
+        "title": "Rainha dos Tronos de Chama",
+        "well": "Corajoso, confiante, poderoso, bonito, social, determinado, orientado para objetivos, ativo",
+        "ill": "temperamental, tirânico, dominador, ciumento",
+        "description": "A Rainha de Paus é corajosa, determinada, criativa e confiante. Ela se conhece e enfrenta as adversidades com facilidade. Sua ousadia inspira outras pessoas e, como resultado, ela frequentemente tem amigos e seguidores dedicados. Ela é extrovertida e inteligente e faz com que os outros se sintam tão capazes quanto ela. Os girassóis no campo representam a alegria, a vida e o crescimento que ela traz consigo. Ela é tão ousada e capaz por causa de seu conhecimento e aceitação de sua sombra, denotada pelo gato preto a seus pés. <br/><br/> Se ela for pega em suas piores qualidades, ela pode ser tirânica em vez de encorajadora, e pode esgotar a si mesma e aos outros, pois seu impulso para ver uma meta concluída pode ser exaustivo. Quando ela se esquece de si mesma, seu temperamento pode surgir e prejudicar seus relacionamentos. A rainha, em suas melhores qualidades, incentiva a individualidade, a criatividade e a ambição e inspira outros nessas qualidades por meio de seu forte exemplo delas. Você mesmo pode precisar dessas qualidades ou alguém em sua vida pode estar demonstrando-as."
+    },
+    {
+        "class": "court",
+        "numbering": 24,
+        "name": "Prince of Wands",
+        "alias": "Príncipe de Paus",
+        "title": " Príncipe da Carruagem de Fogo",
+        "well": "Honestidade, integridade, paixão, energia, entusiasmo, aventura, lealdade",
+        "ill": "Energia excessivamente precipitada, dispersa, arrogância, imprudência",
+        "description": "O Príncipe de Paus está cheio de impulso ardente. Eles estão cheios de energia, entusiasmo e motivação para atingir seus objetivos. Seu impulso para frente nesta carta cria rastros de fogo sob suas rodas e relâmpagos no alto explodem para frente. Sua roda é marcada por um leão, ligado a Leão e Fogo. O Príncipe é profundamente apaixonado e tem clareza da direção que deseja seguir. Sua ousadia pode levá-los ao desconhecido e deixá-los se adiantar. Eles podem ficar confusos ou apenas ver um projeto até a conclusão, em vez de garantir que ele esteja preparado para um sucesso sustentado.<br/><br/>Eles também podem ter o problema de esgotar sua energia e ficar aquém de seu objetivo. Nas suas melhores qualidades, a sua ousadia e coragem inspiram os outros e o seu impulso para conquistar o mundo pode fazer com que acumulem seguidores entusiasmados para avançar nos seus projectos e objectivos. O Príncipe de Paus é um aventureiro e pioneiro, mas não um líder. Os envolvidos com o Príncipe podem ficar para trás se não conseguirem acompanhar e podem ser abandonados junto com um projeto se ele falhar. No entanto, quando um projeto precisa de impulso, entusiasmo, conclusão rápida ou uma alma exploratória por trás dele, não há ninguém mais adequado do que o Príncipe de Paus."
+    },
+    {
+        "class": "court",
+        "numbering": 25,
+        "name": "Princess of Wands",
+        "alias": "Princesa de Paus",
+        "title": "Rosa do Palácio do Fogo",
+        "well": "Confiança, entusiasmo, liberdade, inconformismo, inspirado, descoberta, individualista, impulsivo",
+        "ill": "Vingativo, superficial, indisciplinado, temperamental",
+        "description": "A Princesa de Paus é dinâmica e altamente individualista. Ela abraça a si mesma e seu lado animalesco, notado pelas listras de tigre em seu corpo nu. Ela é feroz e reativa. Ela tem pouca paciência para o mundano e persegue o que a inspira na vida. Ela tem um grande entusiasmo que pode atrair outras pessoas. Ela tem pouco medo, às vezes em detrimento dela, e avança em seus empreendimentos sem vergonha do fracasso ou de como será vista pelos outros. Ela tem um forte senso de justiça e pode se tornar cruel, violenta ou vingativa quando sente que ela ou outras pessoas foram injustiçadas. Em suas piores qualidades, ela é excessivamente temperamental e carece de autoconsciência para tornar sua confiança tão inspiradora quanto a da Rainha. No entanto, nas suas melhores qualidades, ela está livre das restrições que outros tentam impor-lhe e segue o seu próprio caminho com uma paixão inspirador"
+    },
+    {
+        "class": "court",
+        "numbering": 26,
+        "name": "King of Cups",
+        "alias": "Rei de Copas",
+        "title": "Senhor das Ondas e da Água",
+        "well": "Amoroso, generoso, solidário, compassivo, intuitivo, aberto, diplomático",
+        "ill": "Inconstantes, excessivamente emocionais, não confiáveis, inseguros, emocionalmente manipuladores",
+        "description": "O Rei de Copas é diplomático, aberto, emocionalmente equilibrado, compassivo e amoroso. O amuleto de peixe em seu pescoço faz referência à sua criatividade, a taça representa suas emoções. Os peixes enxameiam caoticamente ao seu redor, mas atrás dele um barco é mantido no leito do lago, simbolizando sua firmeza apesar da desordem ao seu redor. O Rei indica alguém que é generoso, solidário e amoroso, mas também pode ser inconstante, pouco confiável ou excessivamente emotivo quando está em suas piores qualidades. As tatuagens em seus braços são de um pavão, representando sua vaidade e sabedoria, e de um caranguejo, representando seu lado carinhoso e sensível, além de um símbolo da deusa Ísis do mar. O Rei de Copas representa o domínio da emoção, da criatividade e do subconsciente. Esta carta sugere uma abordagem equilibrada, calma e madura à situação atual."
+    },
+    {
+        "class": "court",
+        "numbering": 27,
+        "name": "Queen of Cups",
+        "alias": "Rainha de Copas ",
+        "title": "Rainha dos Tronos da Água",
+        "well": " Intuição, maduro, atencioso, estável, comunicativo, meditativo, calmo",
+        "ill": " Co-dependente, desconectado, compreensão distorcida, excessivamente influenciado por outros, depressão, perda de si mesmo",
+        "description": "A Rainha de Copas é, em certo sentido, um espelho, ela reflete beleza e compreensão, mas ao fazer isso pode obscurecer sua própria imagem. Ela é compreendida em um nível emocional, mas não necessariamente intelectual. A lua atrás dela está relacionada com a nona sephira governada pela Lua. Ela possui um véu que obscurece seu rosto, referenciando a dificuldade em conhecê-la. Na coroa está o garfo de Netuno, deus dos mares e associado à ativação do terceiro olho. A taça da Rainha está virada, mostrando que conhecemos apenas o subconsciente, mas não o consciente dela. O mar e os peixes atrás dela simbolizam a mente, as emoções e o espírito inconscientes. Suas tatuagens são uma concha, um recipiente receptivo para água, e um lótus branco, que simboliza novamente a nona sephiroth. A Rainha de Copas é emocionalmente meditativa e madura, possuindo domínio interior sobre o reino emocional. Ela incentiva uma energia nutritiva, compaixão e verdadeira expressão de emoção."
+    },
+    {
+        "class": "court",
+        "numbering": 28,
+        "name": "Prince of Cups",
+        "alias": "Príncipe de Copas",
+        "title": "Príncipe da Carruagem das Águas",
+        "well": "Paixão oculta, generosidade, criativo, romântico, imaginativo",
+        "ill": "irrealistas, egoístas, ciumentos, secretos, voláteis",
+        "description": ""
+    },
+    {
+        "class": "court",
+        "numbering": 29,
+        "name": "Princess of Cups",
+        "alias": " Princesa de Copas",
+        "title": "Lótus do Palácio das Inundações",
+        "well": "Novas ideias, romance, gentileza, curiosidade, intuição, devaneio, possibilidade",
+        "ill": "Criatividade bloqueada, imaturidade, superficial, indolente, dúvida de intuição, desconectado",
+        "description": "A Princesa de Copas é uma espécie de romântica, sonhadora, dançarina e criativa intuitiva. Eles seguram uma xícara da qual emerge um peixe, simbolizando a inspiração criativa de uma fonte inesperada. Eles usam um lenço esvoaçante com estampa de rosas, simbolizando sua beleza criativa. Eles podem ser excessivamente dependentes dos outros e podem estar perdidos em seus sonhos, mas retribuem tanto ou mais do que recebem. Eles podem ser ternos e gentis e expressar abertura à inspiração. Eles convidam você a ser curioso, explorador e a confiar em sua intuição. Geralmente indicam a chegada de uma surpresa inesperada, mas agradável."
+    },
+    {
+        "class": "court",
+        "numbering": 30,
+        "name": "King of Swords",
+        "alias": "Rei de Espadas",
+        "title": "Senhor dos Ventos e Brisas",
+        "well": "Visão clara, trabalho rápido, transição, deixar as emoções de lado e pensar logicamente, acuidade mental, poder intelectual",
+        "ill": " Indiferença, incapacidade de expressar sentimentos, manipulação, abuso de poder",
+        "description": "O Rei de Espadas é um lampejo de percepção, trabalho rápido em direção a objetivos, agudeza mental e ação decisiva. Ele desce em direção aos seus objetivos com precisão e determinação. As andorinhas que o rodeiam simbolizam Mercúrio, governante de Gêmeos, e representam sua comunicação clara. A lua representa sua sabedoria e as borboletas monarca representam transformação e acuidade verbal. Suas botas são as lâminas gêmeas de Gêmeos e sobre elas estão símbolos de Gêmeos e do Sol.<br/><br/>O Rei de Espadas simboliza proezas intelectuais rápidas e precisas. Seu impulso e poder intelectual o colocam em uma excelente posição para alcançar seus objetivos. Quando ele chega em uma leitura, você é incentivado a deixar a emoção de lado e fazer uma escolha baseada na sua clareza mental. Não fique girando em decisões de equilíbrio, em vez disso, elimine o que é estranho e use a lógica para traçar uma rota a seguir. Tome decisões justas e informadas. Se você não tem experiência para tomar essa decisão sozinho, esta carta pode encorajá-lo a procurar alguém com essas qualidades."
+    },
+    {
+        "class": "court",
+        "numbering": 31,
+        "name": "Queen of Swords",
+        "alias": " Rainha de Espadas",
+        "title": "Rainha dos Tronos do Ar",
+        "well": "Intelecto imparcial, independência, tomada de decisão, franqueza, clareza, lógica",
+        "ill": "Ser excessivamente crítico, sem emoção, julgamento que bloqueia a compreensão, bloqueios emocionais, pensamentos turvos e lógica pouco clara",
+        "description": "A Rainha de Espadas é um intelecto maduro e claro. A cabeça decepada do velho representa o corte do que é ultrapassado e estranho para tomar uma decisão clara. É também intelecto puro, não influenciado pela parte inferior do corpo. Ela usa uma máscara de querubim para representar sua perspectiva nova e imparcial. Sua espada é seu intelecto afiado, sua poderosa mente analítica e sua capacidade de ir direto ao cerne da questão. Sua cabeça é cercada por quinze raios, associados à oitava sefira Hod, regida por Mercúrio, que rege Virgem, que a Rainha, por sua vez, rege junto com Libra. <br/><br/>O céu clareia ao redor de sua cabeça, novamente representando sua clareza de pensamento. A Rainha de Espadas conhece a si mesma e através do seu intelecto é capaz de conhecer os outros. Ela pode fluir graciosamente de uma situação para outra. Ela pode indicar a necessidade de descobrir a verdade sobre o assunto, de eliminar detalhes estranhos e de compreender com precisão um problema para poder lidar com ele de maneira adequada. Esta rainha tem pouca paciência para fofocas, fofocas ou rodeios. Como resultado, ela pode parecer dura ou fria, mas na realidade ela é apenas direta sobre seus limites e expectativas."
+    },
+    {
+        "class": "court",
+        "numbering": 32,
+        "name": "Prince of Swords",
+        "alias": " Príncipe de Espadas",
+        "title": "Príncipe da Carruagem dos Ventos",
+        "well": "Educado, intelectual, filósofo, criativo, independente, questionador",
+        "ill": "Inquietação, ideias não desenvolvidas, pensamentos dispersos, impulsividade",
+        "description": "O Príncipe de Espadas é intensamente intelectual. Um tipo filosófico educado que gosta mais de fazer perguntas do que respondê-las. As três mariposas puxam sua atenção está caoticamente espalhada por todo o lugar e, como resultado, sua mente fica dispersa. Eles tendem a se distrair com exercícios de pensamento e seguir em frente sem resolvê-los. Sua espada cria e molda suas ideias, mas a foice associada a Saturno destrói os mesmos pensamentos logo após sua formação. As oito pontas de sua coroa fazem referência às oito sefiras Hod. <br/><br/>Nuvens de tempestade não abalam o príncipe; eles continuam com suas reflexões e distrações, livres de preocupações. O Príncipe de Espadas entende o mundo através de um ponto de vista intelectual e gosta de criar novas ideias e conceitos. Eles podem parecer frios e frustrantes para aqueles que desejam insistir em um assunto por mais tempo do que o príncipe está disposto. Quando o príncipe aparece em uma leitura, eles podem indicar que você precisa pensar mais profundamente sobre um assunto e suas consequências, que pode precisar desenvolver seu ponto de vista intelectual sobre um assunto, ou que pode precisar encontrar rapidamente uma ideia. nova abordagem."
+    },
+    {
+        "class": "court",
+        "numbering": 33,
+        "name": "Princess of Swords",
+        "alias": "Princesa de Espadas",
+        "title": "Lótus do Palácio do Ar",
+        "well": "Inteligente, extrovertido, agressivo, em busca de conhecimento, curioso",
+        "ill": "Vingativos, destrutivos, precipitados, motivados por conflitos",
+        "description": "A Princesa de Espadas é uma lutadora intelectual. Associada à Medusa, ela tende a expressar sua opinião sem pensar nas consequências e, como resultado, pode parecer intimidadora. Ela pode ser uma pessoa raivosa que teve que lutar por todas as vitórias que obteve na vida e, como resultado, inclina-se para o conflito, onde é naturalmente hábil. Ela luta contra o destino para preservar sua identidade. Por ser adepta do conflito, é possível que persista nessa luta e acabe vencendo.<br/><br/> Ela é inteligente, criativa e transformadora, enfrentando diversos desafios usando seu intelecto como seu recurso mais infatigável. Quando ela aparece em uma leitura, isso pode sugerir que você não deve fugir da controvérsia, que uma luta pode ser necessária para se preservar, que a inteligência será mais adequada para você e que uma abordagem nova e adaptativa pode ser necessária."
+    },
+    {
+        "class": "court",
+        "numbering": 34,
+        "name": "King of Pentacles",
+        "alias": "Rei de Ouros",
+        "title": "Senhor da Terra Selvagem e Fértil",
+        "well": "Ética de trabalho, paciência, disciplina, segurança, confiabilidade, estabilidade, suporte",
+        "ill": "Monótonos, previsíveis, sem inteligência, materialistas, estagnação",
+        "description": "O Rei de Ouros é uma fonte estável e segura de trabalho árduo e crescimento metódico. Ela usa um colar de uvas e vinhas, simbolizando sua riqueza e abundância. Sua máscara é adornada com chifres de veado, referência à prudência, associada ao Eremita regido por Virgem. O trigo cresce ao redor de seus pés, ligado à colheita, Virgem, Osíris e fertilidade. Atrás dela está o resultado de seu sucesso com a natureza e o material, um conjunto de árvores e uma pequena mansão na floresta. O Rei de Ouros é uma carta de riqueza e sucesso. Ela tem uma forte ligação com a natureza e trabalha de forma constante ao longo do tempo. Esta carta o incentiva a buscar as mesmas qualidades para levar seu objetivo até o fim. Use a autodisciplina e administre seus assuntos com os dois pés plantados no chão. Trabalhe metodicamente e se esforce ao longo do tempo, e o sucesso virá."
+    },
+    {
+        "class": "court",
+        "numbering": 35,
+        "name": "Queen of Pentacles",
+        "alias": "Rainha de Ouros",
+        "title": "Rainha dos Tronos da Terra",
+        "well": "Praticidade, segurança, carinho, amor, conforto, prosperidade, compaixão, crescimento, fertilidade",
+        "ill": "Sem realização, pouco saudáveis, estéreis, isolados das emoções",
+        "description": "A Rainha de Ouros fica em frente a uma floresta exuberante, representando sua conexão com a natureza, renovação e crescimento abundante. Ele segura um coelho, ligado à fertilidade, e acaricia uma cabra com a outra mão, simbolizando Capricórnio, autodisciplina e ascensão. Ele tem chifres de cabra Markhor, que vive em regiões montanhosas e simboliza sua clareza de propósito, percepção e visão. Esta carta é de prazer sensual, sucesso material, nutrição, visão e crescimento. A Rainha de Ouros pode ser muito doméstica e gosta de ser caseira e de cuidar dos outros. Este cartão pode sugerir que você se concentre em cuidar dos outros e de sua casa. A prosperidade que você tem pode ser compartilhada beneficiar outros. Também pode sugerir outra figura com essas qualidades em sua vida, talvez uma mãe literal ou apenas uma figura maternal que ajuda no seu crescimento."
+    },
+    {
+        "class": "court",
+        "numbering": 36,
+        "name": "Prince of Pentacles",
+        "alias": "Príncipe de Ouros ",
+        "title": "Príncipe da Carruagem da Terra",
+        "well": "Trabalho árduo, foco, construção, responsabilidade, praticidade, objetivo, competência, confiabilidade",
+        "ill": "Teimosia, emocionalmente distante, insensível, chato, monótono, fora de sintonia",
+        "description": "O Príncipe de Ouros é uma carta de trabalho árduo, competência, confiabilidade, praticidade e responsabilidade. O Príncipe senta-se no topo de um assento de cabeça de touro com um disco embaixo, representando Touro e seu foco material e praticidade. Eles têm uma cruz orbital representando a Grande Obra. Abaixo deles há um campo arado representando seu trabalho cuidadosamente planejado. <br/><br/>Eles pegam tapeçarias com flores e frutas de cada lado, mostrando que seu trabalho intencional e direcionado lhes traz recompensa ao longo do tempo. Atrás deles estão montanhas, mostrando que seu trabalho não é necessariamente fácil, e um sol, ligando o príncipe ao domínio da agricultura. O príncipe pode indicar recompensa por meio de um planejamento cuidadoso e de um trabalho árduo bem pensado e bem executado ao longo do tempo. Sugere sucesso após um período de trabalho metódico, progresso gradual e rotina. Planeje a melhor abordagem e, em seguida, concentre-se no trabalho para atingir as metas."
+    },
+    {
+        "class": "court",
+        "numbering": 37,
+        "name": "Princess of Pentacles",
+        "alias": "Princesa de Ouros",
+        "title": "Rosa do Palácio da Terra",
+        "well": "Benevolência, oportunidade, produtividade, realizações, crescimento, natureza, empatia, apoio",
+        "ill": "Desconectar-se de si mesmo e da natureza, impraticabilidade, esterilidade, fechamento, falta de crescimento, estagnação",
+        "description": "A Princesa de Ouros é uma figura pacífica e carinhosa que manifesta crescimento onde quer que vá. Eles estão no meio de uma área árida de floresta, mas o chão abaixo deles transborda de flores e grama, mostrando que eles trazem abundância ao seu redor. Seus chifres os ligam a Áries e à renovação. Suas muletas têm diamantes perto da base, representando a pureza de Kether trazida ao mundo com elas. Sua joelheira yin/yang rodeada de pétalas simboliza a renovação após o fim de um ciclo e a mãe fértil Ísis. A princesa sugere que uma nova oportunidade ou bênção se apresente. Eles são uma pessoa benevolente e gentil e não são versados em conflitos. Eles podem indicar a vida doméstica, a natureza e o seguimento do verdadeiro propósito."
+    },
+    {
+        "class": "pip",
+        "numbering": 38,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 39,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 40,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 41,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 42,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 43,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 44,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 45,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 46,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 47,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 48,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 49,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 50,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 51,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 52,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 53,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 54,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 55,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 56,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 57,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 58,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 59,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 60,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 61,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 62,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 63,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 64,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 65,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 66,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 67,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 68,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 69,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 70,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 71,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 72,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 73,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 74,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 75,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 76,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
+    },
+    {
+        "class": "pip",
+        "numbering": 77,
+        "name": "",
+        "alias": "",
+        "title": "",
+        "well": "",
+        "ill": "",
+        "description": ""
     }
 ]
