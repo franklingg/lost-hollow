@@ -3,13 +3,19 @@
     <a
       class="left"
       (click)="navigatePrev()"
-      [ngClass]="{ disabled: card.numbering == 0 }"
+      [ngClass]="{
+        disabled:
+          card.numbering == 0 || card.numbering == 78 || card.numbering == 79
+      }"
     ></a>
     <img [src]="'../../../assets/images/' + card.numbering + '.png'" />
     <a
       class="right"
       (click)="navigateNext()"
-      [ngClass]="{ disabled: card.numbering == 80 }"
+      [ngClass]="{
+        disabled:
+          card.numbering == 77 || card.numbering == 78 || card.numbering == 79
+      }"
     ></a>
   </div>
   <div class="unique__description">
